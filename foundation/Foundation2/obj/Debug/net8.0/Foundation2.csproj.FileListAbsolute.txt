@@ -1,0 +1,15 @@
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\bin\Debug\net8.0\Foundation2.exe
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\bin\Debug\net8.0\Foundation2.deps.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\bin\Debug\net8.0\Foundation2.runtimeconfig.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\bin\Debug\net8.0\Foundation2.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\bin\Debug\net8.0\Foundation2.pdb
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.AssemblyInfoInputs.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.AssemblyInfo.cs
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.csproj.CoreCompileInputs.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.sourcelink.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\refint\Foundation2.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.pdb
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\Foundation2.genruntimeconfig.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\foundation\Foundation2\obj\Debug\net8.0\ref\Foundation2.dll
