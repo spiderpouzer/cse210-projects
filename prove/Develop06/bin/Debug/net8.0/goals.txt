@@ -1,0 +1,5 @@
+377
+SimpleGoal|Go to the church|50|True
+EternalGoal|study the scripture|100
+ChecklistGoal|go to the temple|3|100|5|500
+StreakGoal|participated the sacrament|100|2|4

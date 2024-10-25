@@ -1,0 +1,15 @@
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\bin\Debug\net8.0\Develop06.exe
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\bin\Debug\net8.0\Develop06.deps.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\bin\Debug\net8.0\Develop06.runtimeconfig.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\bin\Debug\net8.0\Develop06.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\bin\Debug\net8.0\Develop06.pdb
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.AssemblyInfoInputs.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.AssemblyInfo.cs
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.csproj.CoreCompileInputs.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.sourcelink.json
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\refint\Develop06.dll
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.pdb
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\Develop06.genruntimeconfig.cache
+C:\Users\spide\OneDrive\Documentos\CSE 210\cse210-projects\prove\Develop06\obj\Debug\net8.0\ref\Develop06.dll
